@@ -1,1 +1,1 @@
-aws_KEY = eC06uX4LI+1Na10xALSkdfFd3+6Q2pQU0Aen6Edq
+aws_KEY = REMOVE_THE_KEY
